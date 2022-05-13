@@ -1,0 +1,42 @@
+12-05-2022 16:11:42.458 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-05-2022 16:11:42.467 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-05-2022 16:11:42.467 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\UserApiTest\specs\example.spec
+12-05-2022 16:11:42.467 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-05-2022 16:11:42.470 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54006
+12-05-2022 16:11:42.475 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\UserApiTest\specs
+12-05-2022 16:11:42.475 [Gauge] [DEBUG] Found 1 files
+12-05-2022 17:47:01.485 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-05-2022 17:47:01.494 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-05-2022 17:47:01.494 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\UserApiTest\specs\example.spec
+12-05-2022 17:47:01.495 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-05-2022 17:47:01.495 [Gauge] [INFO] Gauge daemon initialized and listening on port: 62658
+12-05-2022 17:47:01.497 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\UserApiTest\specs
+12-05-2022 17:47:01.497 [Gauge] [DEBUG] Found 1 files
+12-05-2022 19:58:05.136 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+12-05-2022 19:58:05.139 [Gauge] [INFO] Initializing specs cache with 1 specs
+12-05-2022 19:58:05.139 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\UserApiTest\specs\example.spec
+12-05-2022 19:58:05.139 [Gauge] [INFO] Initializing steps cache with 1 steps
+12-05-2022 19:58:05.139 [Gauge] [INFO] Gauge daemon initialized and listening on port: 50997
+12-05-2022 19:58:05.141 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\UserApiTest\specs
+12-05-2022 19:58:05.144 [Gauge] [DEBUG] Found 1 files
+13-05-2022 01:22:11.742 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-05-2022 01:22:11.746 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-05-2022 01:22:11.747 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\UserApiTest\specs\example.spec
+13-05-2022 01:22:11.747 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-05-2022 01:22:11.747 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53285
+13-05-2022 01:22:11.759 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\UserApiTest\specs
+13-05-2022 01:22:11.760 [Gauge] [DEBUG] Found 1 files
+13-05-2022 15:16:20.781 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+13-05-2022 15:16:20.799 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-05-2022 15:16:20.799 [Gauge] [DEBUG] Adding specs from C:\Users\ECK\Desktop\test\UserApiTest\specs\example.spec
+13-05-2022 15:16:20.799 [Gauge] [INFO] Initializing steps cache with 1 steps
+13-05-2022 15:16:20.799 [Gauge] [INFO] Gauge daemon initialized and listening on port: 63798
+13-05-2022 15:16:20.804 [Gauge] [DEBUG] Watching directory: C:\Users\ECK\Desktop\test\UserApiTest\specs
+13-05-2022 15:16:20.804 [Gauge] [DEBUG] Found 1 files
+13-05-2022 15:48:31.370 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+13-05-2022 15:48:31.370 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+13-05-2022 15:48:31.562 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+13-05-2022 15:48:31.562 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+13-05-2022 15:48:31.712 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+13-05-2022 15:48:31.712 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+13-05-2022 15:48:43.688 [Gauge] [DEBUG] Spec file removed: C:\Users\ECK\Desktop\test\UserApiTest\specs\example.spec

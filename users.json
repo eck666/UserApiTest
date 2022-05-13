@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "ecktest2",
+      "username": "ecktest2",
+      "email": "ecktestautomation@gmail.com",
+      "address": {
+        "street": "Söğütlü Çeşme Cd",
+        "city": "Istanbul",
+        "zipcode": "34714",
+        "geo": {
+          "lat": "40.99098118085097",
+          "lng": "29.02916279982448"
+        }
+      },
+      "phone": "0555-555-5555",
+      "website": "github.com/eck666"
+    },
+    {
+      "id": 1,
+      "name": "ecktest1",
+      "userName": "ecktest1",
+      "email": "ecktestautomation@gmail.com",
+      "address": {
+        "street": "Söğütlü Çeşme Cd",
+        "city": "Istanbul",
+        "zipcode": "34714",
+        "geo": {
+          "lat": "40.99098118085097",
+          "lng": "29.02916279982448"
+        }
+      },
+      "phone": "0555-555-5555",
+      "website": "github.com/eck666"
+    }
+  ]
+}
